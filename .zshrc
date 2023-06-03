@@ -117,3 +117,11 @@ alias vivado="/home/mario/Xilinx/Vivado/2023.1/bin/vivado"
 
 # dotfiles backup
 alias dotfiles="git --git-dir=/home/mario/.dotfiles/ --work-tree=/home/mario/"
+
+# Path exports
+
+# PyCharm Ultimate
+export PATH="${PATH}:/home/mario/JetBrains/pycharm-2023.1.2/bin/"
+
+# IntelliJ Idea Ultimate
+export PATH="${PATH}:/home/mario/JetBrains/idea-IU-231.9011.34/bin/"
